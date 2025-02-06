@@ -1,0 +1,28 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: youtube
+      text: Youtube
+      href: https://www.youtube.com/@johannesjohow7471
+    - icon: book
+      text: Publications
+      href: https://scholar.google.de/citations?user=okz5ucIAAAAJ&hl=en
+    - icon: github
+      text: Github
+      href: https://github.com/johow
+    - icon: gitlab
+      text: Gitlab
+      href: https://github.com/j0h0w
+    - icon: soundwave
+      text: Soundcloud
+      href: https://www.soundcloud.com/akativ
+
+---
+
+Hi, I'm  
+Johannes  
+Johow  
+

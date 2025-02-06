@@ -1,0 +1,20 @@
+project:
+  type: website
+
+website:
+  title: "<span class='phat'>johow.</span><span class='orange'>IT</span>"
+  navbar:
+    right:
+      - about.qmd
+listing:
+  contents: content
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+format:
+  html:
+    theme: pandoc
+    css: styles.css
+    background-color: #474e3c;
