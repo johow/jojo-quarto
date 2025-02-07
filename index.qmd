@@ -1,12 +1,5 @@
 ---
 title: "<span class='phat'>johow.</span><span class='orange'>IT</span>"
-listing:
-  contents: content
-  sort: "date desc"
-  type: default
-  categories: false
-  sort-ui: false
-  filter-ui: false
 page-layout: full
 title-block-banner: true
 ---

@@ -22,7 +22,5 @@ about:
 
 ---
 
-Hi, I'm  
-Johannes  
-Johow  
-
+> I [graduated in 2013](http://dx.doi.org/10.22029/jlupub-10249) in human reproductive ecology (PI: [Eckart Voland](https://www.eckart-voland.de)) and nowadays do a lot of statistical programming both for fun and to earn a living. I also did some consulting for both commercial/governmental data projects (SAS, SQL, R). In 2019, I joined biometry at the [Coordinating Center for Clinical Trials of the Philipps University Marburg](ww.uni-marburg.de/en/fb20/departments/kks) supporting investigator initiated trials. I like listening to music, playing the cello, or table-tennis, chess.
+> *JJ II. not to be confused with [JJ I.](https://de.wikipedia.org/wiki/Joachim_Johow) or [JJ III.](https://www.google.com/search?q=%22jonathan+johow%229)
