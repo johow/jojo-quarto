@@ -1,7 +1,7 @@
 baseURL: /
 languageCode: en-us
 summaryLength: '10'
-theme: kross-hugo-data-science
+theme: "kross-hugo-data-science"
 title: Johannes Johow (Dr. rer. nat., Dipl.-Biol.)
 params:
   address: --
