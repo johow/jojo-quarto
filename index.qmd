@@ -1,5 +1,5 @@
 ---
-title: "<span class='phat'>johow.</span><span class='orange'>IT</span>"
+title: "<img src='logo-jfrog.png'><span class='phat'>johow</span>.<span class='orange'>IT</span>"
 page-layout: full
 title-block-banner: true
 ---

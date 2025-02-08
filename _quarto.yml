@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "<span class='phat'>johow.</span><span class='orange'>IT</span>"
+  title: "Johannes Johow (Dr. rer. nat., Dipl.-Biol.)"
   navbar:
     right:
       - about.qmd
@@ -10,11 +10,11 @@ listing:
   contents: content
   sort: "date desc"
   type: default
-  categories: true
+  categories: false
   sort-ui: false
   filter-ui: false
 format:
   html:
-    theme: pandoc
+    theme: port-hugo
     css: styles.css
     background-color: #474e3c;

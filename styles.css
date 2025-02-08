@@ -3,14 +3,14 @@
 PROJECT: Project Name
 VERSION: Versoin Number
 -------------------------------------------------------------------*/
-@import "https://fonts.googleapis.com/css?family=Playfair+Display:700|Roboto:400";
+@import "https://fonts.googleapis.com/css?family=Playfair+Display:700|Roboto:ital,wght@0,100..900;1,100..900&display=swap";
 
 body {
   line-height: 1.2;
   font-family: roboto, sans-serif;
   -webkit-font-smoothing: antialiased;
   font-size: 15px;
-  color: #4c4c4c
+  color: #4c4c4c;
 }
 
 p {
@@ -145,7 +145,7 @@ h6,
 }
 
 body {
-  background-color: #fff;
+  background-color: #bbc3ab;
   overflow-x: hidden
 }
 
@@ -899,6 +899,18 @@ blockquote {
   text-align: center;
 }
 
+.phat {
+  font-family: "Roboto", serif;
+  font-optical-sizing: auto;
+  font-style: italic;
+  font-variation-settings:
+    "wdth" 100;
+  font-weight: 900;
+}
+.orange{
+  color: #ebca71;
+}
+
 .project-meta{
   display: flex;
   align-items: center;
@@ -908,7 +920,7 @@ blockquote {
   height: 100px;
   min-width: 100px;
   line-height: 100px;
-  background-color: #fff;
+  background-color: #768858;
   color: var(--primary-color);
   border-radius: 50%;
   text-align: center;

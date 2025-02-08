@@ -5,3 +5,4 @@
 /.quarto/
 static/pdf/*
 _site
+public
