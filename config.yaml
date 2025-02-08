@@ -1,4 +1,4 @@
-baseURL: /
+baseURL: https://johow.netlify.app/
 languageCode: en-us
 summaryLength: '10'
 theme: "kross-hugo-data-science"
