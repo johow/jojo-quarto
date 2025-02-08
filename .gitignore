@@ -2,7 +2,3 @@
 .Rhistory
 .RData
 .Ruserdata
-/.quarto/
-static/pdf/*
-_site
-public

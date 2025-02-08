@@ -1,0 +1,25 @@
+{
+  "listingMap": {
+    "about.qmd": [
+      "content"
+    ],
+    "content\\portfolio\\akativ.md": [
+      "../../content"
+    ],
+    "content\\portfolio\\project-1.md": [
+      "../../content"
+    ],
+    "content\\portfolio\\project-2.md": [
+      "../../content"
+    ],
+    "index.qmd": [
+      "content"
+    ],
+    "posts\\post-with-code\\index.qmd": [
+      "../../content"
+    ],
+    "posts\\welcome\\index.qmd": [
+      "../../content"
+    ]
+  }
+}

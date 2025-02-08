@@ -1,0 +1,59 @@
+baseURL: /
+languageCode: en-us
+summaryLength: '10'
+theme: kross-hugo-data-science
+title: Johannes Johow (Dr. rer. nat., Dipl.-Biol.)
+params:
+  address: --
+  author: Johannes Johow
+  baidu_analytics_id: ''
+  baidu_site_verification: ''
+  contact:
+    enable: yes
+    form_action: '#'
+  cookies:
+    enable: no
+    expire_days: 2
+  copyright: Copyright &copy; 2025 [johow]
+  description: An example portfolio with kross theme.
+  email: j@johow.it
+  google_analytics_id: ''
+  home: Home
+  logo: images/logo-jfrog.png
+  map:
+    enable: no
+    gmap_api: https://maps.googleapis.com/maps/api/js?key=&#038;types=(cities)&#038;libraries=places&#038;language=en
+    map_latitude: '50.351352'
+    map_longitude: '8.402730'
+    map_marker: images/marker.png
+  phone: --
+  plugins:
+    css:
+      - link: plugins/bootstrap/bootstrap.min.css
+      - link: plugins/slick/slick.css
+      - link: plugins/themify-icons/themify-icons.css
+    js:
+      - link: plugins/jQuery/jquery.min.js
+      - link: plugins/bootstrap/bootstrap.min.js
+      - link: plugins/slick/slick.min.js
+      - link: plugins/shuffle/shuffle.min.js
+      - link: plugins/google-map/map.js
+  preloader:
+    enable: yes
+    preloader: images/preloader.gif
+  social:
+    - URL: 'https://gitlab.com/j0h0w'
+      icon: ti-gitlab
+    - URL: 'https://github.com/johow'
+      icon: ti-github
+    - URL: 'https://www.youtube.com/@johannesjohow7471'
+      icon: ti-youtube
+  theme_color: '#515647'
+menu:
+  main:
+    - URL: portfolio
+      name: resources
+      weight: 3
+    - URL: contact
+      name: mail
+      weight: 4
