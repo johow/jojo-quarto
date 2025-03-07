@@ -7,7 +7,7 @@ description: Akativ Beats.
 draft: false
 github_url: NA
 image: images/portfolio/TAPE_COVER2s.png
-project_url: '[View Playlists](https://music.youtube.com/channel/UCunaHKiYtb2SM2H8L1XO-qg?si=izCSCqHDoqExe-sF)'
+project_url: '[myMusic@YouTube](https://youtube.com/@Akativ)'
 title: My Music on Youtube
 ---
 
