@@ -7,14 +7,16 @@ description: Akativ Beats.
 draft: false
 github_url: NA
 image: images/portfolio/TAPE_COVER2s.png
-project_url: '[myMusic@YouTube](https://youtube.com/@Akativ)'
+project_url: '[My music on YouTube](https://youtube.com/@Akativ)'
 title: My Music on Youtube
 ---
 
 
-  #### Project Details
-  
-  Playlists of our music 
+#### Project Details
+
+Providing
+
+music I made during past decades 
   
 #### Project Requirements
 
