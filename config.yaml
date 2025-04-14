@@ -46,7 +46,7 @@ params:
       icon: ti-gitlab
     - URL: 'https://github.com/johow'
       icon: ti-github
-    - URL: 'https://www.youtube.com/@johannesjohow7471'
+    - URL: 'https://www.youtube.com/@Akativ'
       icon: ti-youtube
   theme_color: '#515647'
 menu:
