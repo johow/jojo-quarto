@@ -14,9 +14,9 @@ title: My Music on Youtube
 
 #### Project Details
 
-Providing
+Some music I made during past decades.
 
-music I made during past decades 
+{{< youtube LnxBmO_C-Lo >}}
   
 #### Project Requirements
 
